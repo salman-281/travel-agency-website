@@ -38,7 +38,7 @@ export default function Navbar() {
         <div className="flex items-center outfit3 justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center outfit3 gap-2">
-            <Plane className={`h-8 w-8 ${isScrolled ? "text-teal-600" : "text-white"} `} />
+            <Plane className={`h-8 w-8 ${isScrolled ? "text-teal-500" : "text-white"} `} />
             <span className={`text-xl ${isScrolled ? "bg-gradient-to-r from-teal-600 to-blue-500 bg-clip-text text-transparent" : "text-white"} regular2 font-bold `}>
               WanderLuxe
             </span>

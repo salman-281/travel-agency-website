@@ -91,8 +91,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ILoveFile | Online PDF tools for editing, merging, compressing, and converting",
-  description: "ILoveFile offers a complete suite of online PDF tools to edit, merge, split, compress, convert PDFs and more easily and securely. Free and user-friendly!",
+  title: "WanderLuxe Travel Agency",
+  description: "Explore the world with WanderWise! We offer personalized travel packages, flight bookings, hotel deals, and guided tours to make your dream vacation a reality.",
   icons: {
     icon: "/favicon.svg",
   }
